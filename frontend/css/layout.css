@@ -244,7 +244,7 @@ ul#nav li.current a { color: #F06000; }
    color: #FFFFFF; /* Ensure the heading is black */
 }
 
-#Architecture h1 {
+#Architecture p {
    line-height: 30px;
    color: #fff;
 }
