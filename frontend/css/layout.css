@@ -235,8 +235,8 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #Architecture {
-   background-color: #0F9095; /* White background */
-   padding: 40px 0; /* Optional: adds some padding */
+   background-color: #000000; /* White background */
+   padding: 60px 0; /* Optional: adds some padding */
    color: #000000; /* Black text */
 }
 
