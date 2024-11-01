@@ -236,14 +236,15 @@ ul#nav li.current a { color: #F06000; }
 
 #Architecture {
    background: #fff;
-   padding-top: 90px;
-   padding-bottom: 72px;
+   padding-top: 96px;
+   padding-bottom: 66px;
    overflow: hidden;
 }
 
-#Architecture .architecture-heading {
-   color: white;
-   font-weight: bold;
+#Architecture h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #1F1F1F;
+   margin-bottom: 12px;
 }
 
 
