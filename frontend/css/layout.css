@@ -235,16 +235,16 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #Architecture {
-   background: #fff;
-   padding-top: 96px;
-   padding-bottom: 66px;
-   overflow: hidden;
+   background-color: #ffffff; /* White background */
+   padding: 40px 0; /* Optional: adds some padding */
+   color: #000000; /* Black text */
 }
 
-#Architecture h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
-   color: #1F1F1F;
-   margin-bottom: 12px;
+.architecture-heading {
+   color: #000000; /* Ensure the heading is black */
+   font-family: Arial, sans-serif; /* You can change this to your preferred font */
+}
+
 }
 
 
