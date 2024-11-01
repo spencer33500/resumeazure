@@ -234,14 +234,14 @@ ul#nav li.current a { color: #F06000; }
 /* d. Arch
 /* ------------------------------------------------------------------ */
 
-#resume {
+#Architecture {
    background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#architecture .architecture-heading {
+#Architecture .architecture-heading {
    color: white;
    font-weight: bold;
 }
