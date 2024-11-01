@@ -245,15 +245,13 @@ ul#nav li.current a { color: #F06000; }
    font-family: Arial, sans-serif; /* You can change this to your preferred font */
 }
 
-}
-
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: #000;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
