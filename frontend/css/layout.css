@@ -244,6 +244,11 @@ ul#nav li.current a { color: #F06000; }
    color: #FFFFFF; /* Ensure the heading is black */
 }
 
+#Architecture p {
+   line-height: 30px;
+   color: #7A7A7A;
+}
+
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
