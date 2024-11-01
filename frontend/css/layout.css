@@ -198,7 +198,7 @@ ul#nav li.current a { color: #F06000; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #000;
    margin-bottom: 12px;
 }
 #about p {
@@ -235,14 +235,13 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #Architecture {
-   background-color: #ffffff; /* White background */
+   background-color: #0F9095; /* White background */
    padding: 40px 0; /* Optional: adds some padding */
    color: #000000; /* Black text */
 }
 
 .architecture-heading {
    color: #000000; /* Ensure the heading is black */
-   font-family: Arial, sans-serif; /* You can change this to your preferred font */
 }
 
 
